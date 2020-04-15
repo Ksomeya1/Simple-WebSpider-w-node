@@ -7,6 +7,6 @@ This is a simple web crawler example, scraping reddit posts, title, author, and 
 
 3) make sure you are admin and run scrape.js
 
-4) let it run for a few seconds, then the output should be in reddit txt
+4) let it run for a few seconds, then the output should show up in .txt
 
 5) voila~!
